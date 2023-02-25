@@ -1,0 +1,18 @@
+body{
+  font-size: 16px;
+}
+#title-futuros{
+  font-weight: bold;
+}
+#barrios{
+  background-color: transparent;
+  border: none;
+  color: brown;
+  font-size: 17px;
+}
+#barrios option{
+  color: white;
+  background-color: #6c757d;
+  font-size: 16px;
+  padding: 0px;
+}

@@ -1,0 +1,30 @@
+body{
+  background-color: #2D2865;
+}
+.log{
+  font-size: 40px;
+}
+.text{
+  font-size: 16px;
+}
+.mintext{
+  font-size: 14px;
+}
+#church{
+  width: 80%;
+}
+@media (min-height: 640px) and (max-height: 667px){
+ .footlog{
+  padding-bottom: 7%;
+ }
+}
+@media (min-height: 667px) and (max-height: 720px){
+  .footlog{
+   padding-bottom: 13%;
+  }
+ }
+ @media (min-height: 720px) and (max-height: 731px){
+  .footlog{
+   padding-bottom: 21%;
+  }
+ }
